@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guille</h1>
 
-<h3 align="center">
-💻 Full Stack Web Developer focused on building real-world applications
-</h3>
+<h2 align="center">
+💻 Full Stack Web Developer building web applications and custom systems
+</h2>
 
 <p align="center">
 ⚛️ React • TypeScript • Node.js • PostgreSQL <br/>
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🧠 I build web applications from idea to implementation  
 - ⚙️ Working across frontend and backend (React + Node.js)  
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 <p>
