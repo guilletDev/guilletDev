@@ -47,19 +47,12 @@
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
-- Building real-world projects (reservations, management systems)  
-- Improving full stack skills  
-- Applying AI in development  
+- Building systems like reservations and management apps  
+- Working with React, TypeScript and Node.js in full stack projects  
+- Using AI tools and agents to automate tasks and improve workflows
 
----
-
-## 🌐 Portfolio
-
-👉 https://guilletdev.vercel.app
-
----
 
 ## 📫 Contact
 
