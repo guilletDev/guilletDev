@@ -9,7 +9,6 @@
 🚀 Building web apps & custom systems + integrating AI into workflows
 </p>
 
----
 
 ## About Me
 
@@ -18,7 +17,6 @@
 - 🤖 Using AI tools, agents and automation to improve development workflow  
 - 📍 Based in Argentina  
 
----
 
 ## Tech Stack
 
@@ -45,11 +43,9 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
 </p>
 
----
 
 ## Current Focus
 
-- Building systems like reservations and management apps  
 - Working with React, TypeScript and Node.js in full stack projects  
 - Using AI tools and agents to automate tasks and improve workflows
 
