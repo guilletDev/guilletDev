@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Guille</h1>
 
 <h2 align="center">
-💻 Full Stack Web Developer building web applications and custom systems
+💻 Full Stack Web Developer focused on building web applications and custom systems
 </h2>
 
 <p align="center">
-⚛️ React • TypeScript • Node.js • PostgreSQL <br/>
-🚀 Building web apps & custom systems + integrating AI into workflows
+⚛️ React • TypeScript • Node.js • PostgreSQL 
 </p>
 
 
 ## About Me
 
-- 🧠 I build web applications from idea to implementation  
-- ⚙️ Working across frontend and backend (React + Node.js)  
+- 🧠 I build web applications such as reservation and management systems  
+- ⚙️ Working across frontend and backend with React and Node.js  
 - 🤖 Using AI tools, agents and automation to improve development workflow  
 - 📍 Based in Argentina  
 
@@ -46,6 +45,7 @@
 
 ## Current Focus
 
+- Building management systems (gym systems, reservations)
 - Working with React, TypeScript and Node.js in full stack projects  
 - Using AI tools and agents to automate tasks and improve workflows
 
